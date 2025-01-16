@@ -2,6 +2,22 @@
 
 This repository contains the data, code, and methodologies used to analyze interdisciplinarity in South Korea's STEM higher education curricula for 2024. By leveraging natural language processing (NLP) and network science techniques, we quantify interdisciplinary synergy and design optimized curricula for single and dual-discipline programs.
 
+## Repository Structure
+
+```
+STEM-curriculum-2024-South-Korea/
+├── data/
+│   ├── bipartite network data.xlsx  # processed data
+├── notebooks/
+│   ├── STEM language data proceessing.ipynb
+│   ├── Single major & Double major.ipynb
+│   ├── css calculate.ipynb
+├── results/
+│   ├── single_major.xlsx            
+│   ├── double major.zip           
+├── README.md               # Project description
+```
+
 ## Overview
 
 The goal of this project is to create a systematic framework to analyze and enhance interdisciplinary connections within STEM education. This involves standardizing raw course data, quantifying department similarities, and designing interdisciplinary curricula. The results provide insights into how interdisciplinary approaches can be systematically implemented in higher education.
@@ -51,3 +67,34 @@ These datasets ensure comprehensive coverage of the STEM educational landscape i
 - **Curriculum Synergy Score (CSS):**
   - Measures interdisciplinary synergy by balancing shared similarity and emergent information between disciplines.
 
+## How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/STEM-curriculum-2024-South-Korea.git
+   cd STEM-curriculum-2024-South-Korea
+   ```
+
+2. Install required Python libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run Jupyter notebooks for data analysis and visualization:
+   ```bash
+   jupyter notebook
+   ```
+
+4. Explore results and figures in the `results/` directory.
+
+## Results
+
+- Standardized curricula for 2,841 departments across 161 institutions.
+- Department similarity network visualizations, revealing core-periphery structures in STEM disciplines.
+- Interdisciplinary curriculum models with quantified synergy scores.
+
+## Contributors
+
+- **Gahyoun Gim** (Gyeongsang National University, GNU)
+- **Jinhyuk Yun** (Soongsil University)
+- **Sang Hoon Lee** (Gyeongsang National University, GNU)
