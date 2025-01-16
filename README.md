@@ -96,5 +96,5 @@ These datasets ensure comprehensive coverage of the STEM educational landscape i
 ## Contributors
 
 - **Gahyoun Gim** (Gyeongsang National University) 
-- **Jinhyuk Yun** (Soongsil University) @bluekura
-- **Sang Hoon Lee** (Gyeongsang National University) @lshlj82
+- **Jinhyuk Yun** (Soongsil University)
+- **Sang Hoon Lee** (Gyeongsang National University) 
