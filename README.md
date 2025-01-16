@@ -11,7 +11,7 @@ The goal of this project is to create a systematic framework to analyze and enha
 ```
 STEM-curriculum-2024-South-Korea/
 ├── data/
-│   ├── **bipartite network data.xlsx**           # processed data
+│   ├── bipartite network data.xlsx             # processed data
 ├── notebooks/
 │   ├── STEM language data proceessing.ipynb    # with Gemini
 │   ├── Single major & Double major.ipynb
