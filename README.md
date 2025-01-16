@@ -14,7 +14,7 @@ STEM-curriculum-2024-South-Korea/
 │   ├── bipartite network data.xlsx             # processed data
 ├── notebooks/
 │   ├── STEM language data proceessing.ipynb    # with Gemini
-│   ├── Single major & Double major.ipynb
+│   ├── Single & Double major design.ipynb
 │   ├── css calculate.ipynb
 ├── results/
 │   ├── single_major.xlsx            
