@@ -2,8 +2,12 @@
 
 This repository contains the data, code, and methodologies used to analyze interdisciplinarity in South Korea's STEM higher education curricula for 2024. By leveraging natural language processing (NLP) and network science techniques, we quantify interdisciplinary synergy and design optimized curricula for single and dual-discipline programs.
 
-## Repository Structure
+## Overview
 
+The goal of this project is to create a systematic framework to analyze and enhance interdisciplinary connections within STEM education. This involves standardizing raw course data, quantifying department similarities, and designing interdisciplinary curricula. The results provide insights into how interdisciplinary approaches can be systematically implemented in higher education.
+
+
+## Repository Structure
 ```
 STEM-curriculum-2024-South-Korea/
 ├── data/
@@ -20,11 +24,6 @@ STEM-curriculum-2024-South-Korea/
 │       ├── every integrated double major result        
 ├── README.md            
 ```
-
-## Overview
-
-The goal of this project is to create a systematic framework to analyze and enhance interdisciplinary connections within STEM education. This involves standardizing raw course data, quantifying department similarities, and designing interdisciplinary curricula. The results provide insights into how interdisciplinary approaches can be systematically implemented in higher education.
-
 ## Data Sources
 
 The datasets used in this project are sourced from the publicly available portal operated by the Ministry of Education in South Korea. Key datasets include:
