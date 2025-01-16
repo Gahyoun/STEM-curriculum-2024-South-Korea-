@@ -15,7 +15,7 @@ STEM-curriculum-2024-South-Korea/
 ├── notebooks/
 │   ├── STEM language data proceessing.ipynb    # with Gemini
 │   ├── Single & Double major design.ipynb
-│   ├── css calculate.ipynb
+│   ├── CSS calculate.ipynb
 ├── results/
 │   ├── single_major.xlsx            
 │   ├── double major
