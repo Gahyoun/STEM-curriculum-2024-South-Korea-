@@ -7,15 +7,15 @@ This repository contains the data, code, and methodologies used to analyze inter
 ```
 STEM-curriculum-2024-South-Korea/
 ├── data/
-│   ├── bipartite network data.xlsx  # processed data
+│   ├── bipartite network data.xlsx             # processed data
 ├── notebooks/
-│   ├── STEM language data proceessing.ipynb
+│   ├── STEM language data proceessing.ipynb    # with Gemini
 │   ├── Single major & Double major.ipynb
 │   ├── css calculate.ipynb
 ├── results/
 │   ├── single_major.xlsx            
 │   ├── double major.zip           
-├── README.md               # Project description
+├── README.md            
 ```
 
 ## Overview
