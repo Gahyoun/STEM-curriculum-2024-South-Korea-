@@ -14,7 +14,8 @@ STEM-curriculum-2024-South-Korea/
 │   ├── css calculate.ipynb
 ├── results/
 │   ├── single_major.xlsx            
-│   ├── double major.zip           
+│   ├── double major
+│       ├── every integrated double major result        
 ├── README.md            
 ```
 
