@@ -20,8 +20,8 @@ STEM-curriculum-2024-South-Korea/
 │   ├── single_major.xlsx            
 │   ├── double major
 │       ├── every integrated double major result        
-├── statics/ 
-│   ├── department's statics.xlsx      
+├── statistics/ 
+│   ├── department's statistics.xlsx      
 ├── README.md            
 ```
 ## Data Sources
